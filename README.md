@@ -9,6 +9,8 @@ You can not limit large string to specified number of lines by this plugin.
 3. It is compatible with all browsers.
 4. number of lines can be configured.
 ```
+# Demo
+https://plnkr.co/edit/wDsy7ORVbuh94Yfhg9eZ?p=preview
 
 # Installation Instruction:
 ```html
