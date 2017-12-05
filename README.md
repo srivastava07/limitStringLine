@@ -17,3 +17,25 @@ You can not limit large string to specified number of lines by this plugin.
 3. call the plugin inside document.ready
 ```
 
+# Uses Example
+```code
+<script type="text/javascript">
+	jQuery(function(){
+		 $('.parentDiv').limitStringLine({lineNeeded:3,titleDiv:'.title'});
+	});
+</script>
+
+
+<div class="parentDiv col-md-6 row">
+	<div class="title col-md-3">
+		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley 
+	</div>	
+</div>
+
+<div class="parentDiv col-md-6 row">
+	<div class="title col-md-3">
+		Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC
+	</div>
+</div>
+```
+
