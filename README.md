@@ -1,5 +1,5 @@
 # Limit Number of lines in a div
-You can not limit large string to specified number of lines by this plugin.
+You can limit large string to specified number of lines in a div by this plugin.
 
 
 # Features:
